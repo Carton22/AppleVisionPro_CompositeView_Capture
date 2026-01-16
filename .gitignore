@@ -1,0 +1,45 @@
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+## Python bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pytype/
+
+## Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+## Packaging / build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+## Test / coverage artifacts
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+junit*.xml
+
+## Logs
+*.log
+
+## Editor / IDE
+.vscode/
+.idea/
+*.iml
+
+## Local env/secrets
+.env
+.env.*
