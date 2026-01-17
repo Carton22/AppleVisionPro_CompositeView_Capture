@@ -9,7 +9,7 @@ Use a programmatic way to capture composite views in Apple Vision Pro (AVP).
 
 1. In your Macbook, grant Access in System - Privacy - Accessibility for your terminal or IDE (VSCode or Cursor)
 
-2. Open Developer Capture Tools in Reality Composer Pro (More Info [here](https://developer.apple.com/documentation/visionos/capturing-screenshots-and-video-from-your-apple-vision-pro-for-2d-viewing), recommended to read)
+2. Open Developer Capture Tools in Reality Composer Pro (More Info [here](https://developer.apple.com/documentation/visionos/capturing-screenshots-and-video-from-your-apple-vision-pro-for-2d-viewing), recommend to read)
 
    <img src="img/developer_capture1.png" alt="Developer Capture Tool" style="zoom: 100%;" />
 
