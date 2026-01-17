@@ -19,13 +19,15 @@ Use a programmatic way to capture composite views in Apple Vision Pro (AVP).
 
 5. Make sure the Developer Capture Tool is the main current task in you Macbook. This can be done easily by clicking on the developer tool window.
 
-6. Click the key "A" on your keyboard manually. (PS: this step can be replaced by a websocket message control or other advanced tricks later). 
+6. Click the Capture screenshot button (the camera icon button)
 
-7. After 3 seconds, the script will simulate a click event and click the space key. 
+7. Click the key "A" on your keyboard manually. (PS: this step can be replaced by a websocket message control or other advanced tricks later). 
 
-8. Then the developer capture tool will capture the current composite view in AVP and save to the `\Desktop` folder.
+8. After 3 seconds, the script will simulate a click event and click the space key. 
 
-9. Take this image for any processing (inference on your MacBook or send to other servers)
+9. Then the developer capture tool will capture the current composite view in AVP and save to the `\Desktop` folder.
+
+10. Take this image for any processing (inference on your MacBook or send to other servers)
 
 ### Features
 
@@ -35,6 +37,8 @@ Use a programmatic way to capture composite views in Apple Vision Pro (AVP).
 4. No Xcode or Swift UI, only MacBook / Reality Composer Pro / Apple Vision Pro needed + this little magic script
 5. Can be interfaced with WebSockets later to allow for XR headset control and cross-device control
 6. image/video files will be directly saved on the MacBook/Desktop folder and can be processed in any AI model or transferred to a server easily, much easier than sending from an XR headset, friendly for non-on-device inference
+7. You get **4K** resolution images without **foveated rendering**, which should be good for better Computer Vision understanding
+
 
 ### Install
 
