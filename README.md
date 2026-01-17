@@ -75,7 +75,7 @@ We differentiate between the passthrough physical view and the composite view, c
 
 <img src="img/composite_view.png" alt="Composite view example" style="zoom: 25%;" />
 
-**Physical world view**
+**Physical World View**
 
 <img src="img/passthrough_view.png" alt="Physical view example" style="zoom: 100%;" />
 
@@ -92,11 +92,11 @@ Using this method, the image and video will also be saved directly in your local
 
 By saving on the laptop, we can alsso easily do sanity check and quick visualization to guarantee the scene image is saved correctly.
 
-### Limitation
+### Limitations
 
 This method requires having Capture Tools open on your Macbook and I have not figured out a way to customized the photos or videos saving path yet. Currently, it will save to your /Desktop folder by default.
 
-### Last Word
+### One Last Thing
 
 If you find this helpful, feel free to give me a star✨ and welcome for any comment or feedback.
 I am happy to learn more abour #XR #Apple Vision Pro and their development for use with #AI pipeline.
