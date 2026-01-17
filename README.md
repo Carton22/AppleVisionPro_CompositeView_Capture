@@ -96,7 +96,7 @@ By saving on the laptop, we can alsso easily do sanity check and quick visualiza
 
 This method requires having Capture Tools open on your Macbook and I have not figured out a way to customized the photos or videos saving path yet. Currently, it will save to your /Desktop folder by default.
 
-### Last word
+### Last Word
 
 If you find this helpful, feel free to give me a star✨ and welcome for any comment or feedback.
 I am happy to learn more abour #XR #Apple Vision Pro and their development for use with #AI pipeline.
